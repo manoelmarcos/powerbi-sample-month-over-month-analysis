@@ -1,4 +1,5 @@
-# Análise Mês vs Mês (Month over Moth Analysis) - Projeto em Power BI 
+# Projeto em Power BI MoM 
+Análise Mês vs Mês (Month over Moth Analysis)
 
 focado na análise Mês a Mês (MoM) utilizando o Power BI. Este projeto visa oferecer uma solução abrangente para usuários que buscam insights sobre as tendências e variações de dados ao longo de meses consecutivos. Usando as capacidades do Power BI, o projeto proporciona uma maneira amigável e visualmente atrativa de compreender mudanças em métricas-chave e indicadores de desempenho.
 
