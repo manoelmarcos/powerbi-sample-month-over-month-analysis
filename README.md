@@ -20,7 +20,7 @@ Para aproveitar este projeto de Análise MoM, basta clonar ou baixar o repositó
 Convido entusiastas de dados e analistas a explorar e contribuir para este projeto de Análise MoM. Ao aproveitar o poder do Power BI, podemos descobrir insights valiosos sobre variações mês a mês, permitindo tomadas de decisão informadas e planejamento estratégico. Seu feedback, sugestões e contribuições são muito bem-vindos para aprimorar a utilidade e eficácia do projeto para a comunidade em geral. Vamos colaborar e fortalecer a tomada de decisões orientada por dados juntos!
 
 Logo:
-![](./211119_1319___ - LOGO ADVENTURE-WORKS- M A N O E L - O K - PNG - 2 - BG TRANSP.png)
+![](./master/211119_1319___ - LOGO ADVENTURE-WORKS- M A N O E L - O K - PNG - 2 - BG TRANSP.png)
 
 
 
