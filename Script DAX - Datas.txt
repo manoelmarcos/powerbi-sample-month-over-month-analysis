@@ -1,0 +1,18 @@
+Datas = 
+ADDCOLUMNS (
+    CALENDARAUTO (),
+    "Id data", FORMAT ( [Date], "YYYYMMDD" ),
+    "Ano", YEAR ( [Date] ),
+    "Id mês", FORMAT ( [Date], "MM" ),
+    "Id ano/mês", FORMAT ( [Date], "YYYY/MM" ),
+    "Ano/Mês", FORMAT ( [Date], "YYYY/mmm" ),
+    "Mês", FORMAT ( [Date], "mmm" ),
+    "Mês extenso", FORMAT ( [Date], "mmmm" ),
+    "Id dia da semana", WEEKDAY ( [Date] ),
+    "Dia da semana", FORMAT ( [Date], "dddd" ),
+    "Dia da semana curto", FORMAT ( [Date], "ddd" ),
+    "Trimestre", "T" & FORMAT ( [Date], "T" ),
+    "Ano/Trimestre",
+        FORMAT ( [Date], "YYYY" ) & "/T"
+            & FORMAT ( [Date], "T" )
+)
