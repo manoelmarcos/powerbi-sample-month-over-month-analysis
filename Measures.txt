@@ -1,0 +1,13 @@
+Medidas:
+
+Total de Vendas do Mês Atual =
+SUM ( Vendas[Total da venda] )
+
+Total de Vendas do Mês Anterior =
+CALCULATE ( SUM ( Vendas[Total da venda] ), PREVIOUSMONTH ( Datas[Data] ) )
+
+MoM =
+Sales[Total de Vendas] - [Mês Anterior]
+
+MoM% =
+DIVIDE ( [MoM], [Mês Anterior] )
